@@ -4,7 +4,10 @@ The goal of this project is to test and find all bugs and issues in vinted.lt we
 This is going to be Vinted bug and issue repository.
 
 Operating systems used: macOS Mojave and Android.
-Browser used: Google chrome.
+Browser used: Google Chrome.
+Tools used: Google Chrome developer tools.
+
+## Issues
 
 #1 Issue
 
@@ -17,3 +20,10 @@ As you can see in the screenshot below, additional information button covers the
 Second issue is hyperlinks in the system. In the screenshot below you can see that a lot of links are crossing the screen border, so it makes website to look uncomfortable to use because it might slide to the right side any time. I suggest to make two shorter rows instead of one longer. It's a medium priority issue, because it's essential to have responsive design so that all members would feel satisfied and their journey in vinted would be as smooth as it can be.
 
 ![](Vinted_bug_screenshots/Second_issue_vinted.png)
+
+## Bugs
+
+#1 Bug
+
+
+![](Vinted_bug_screenshots/Second_ad _bug_vinted.png)
