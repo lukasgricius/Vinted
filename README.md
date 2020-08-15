@@ -25,5 +25,14 @@ Second issue is hyperlinks in the system. In the screenshot below you can see th
 
 #1 Bug
 
+Ad keeps blocking search field. It's medium priority, because only this ad is blocking it, every other ad is working as expected with search field (goes underneath it during scrolling).
 
-![](Vinted_bug_screenshots/Second_ad _bug_vinted.png)
+![](Vinted_bug_screenshots/Second_ad%20_bug_vinted.png)
+
+#2 Bug
+
+Link "ką gali parduoti Vinted" doesn't work as expected. After pressing the link it just remains at the same page. As you can see in the screenshot below, there is a mistake in code itself (in RED frames - mistake, in GREEN frames - the right way it should be).
+
+![](Vinted_bug_screenshots/Link_bug_vinted.png)
+
+Since this project was too big to write all the test cases, I didn't write any. If you want to see examples of my test cases, check 
