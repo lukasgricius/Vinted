@@ -4,7 +4,9 @@ The goal of this project is to test and find all bugs and issues in vinted.lt we
 This is going to be Vinted bug and issue repository.
 
 Operating systems used: macOS Mojave and Android.
+
 Browser used: Google Chrome.
+
 Tools used: Google Chrome developer tools.
 
 ## Issues
