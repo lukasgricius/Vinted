@@ -37,4 +37,4 @@ Link "ką gali parduoti Vinted" doesn't work as expected. After pressing the lin
 
 ![](Vinted_bug_screenshots/Link_bug_vinted.png)
 
-Since this project was too big to write all the possible test scenarios I executed, I didn't write any. If you want to see examples of my test cases, check 
+Since this project was too big to write all the possible test scenarios I executed, I didn't write any. If you want to see examples of my test cases, check https://github.com/lukasgricius/Coingate.
